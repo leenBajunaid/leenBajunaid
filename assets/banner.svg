@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Leen Bajunaid — Software Developer and Cybersecurity Specialist">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090c14"/>
+      <stop offset="1" stop-color="#0d1120"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d6336c"/>
+      <stop offset="1" stop-color="#ff4f95"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#141d2c" stroke-width="1"/>
+    </pattern>
+    <style>
+      @keyframes pulse { 0%,100%{opacity:.20} 50%{opacity:.85} }
+      @keyframes scan  { 0%{transform:translateY(-46px)} 100%{transform:translateY(300px)} }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      @keyframes flick { 0%,100%{opacity:.92} 50%{opacity:1} }
+      .px    { animation: pulse 2.6s ease-in-out infinite; }
+      .scan  { animation: scan 5.5s linear infinite; }
+      .cur   { animation: blink 1.05s step-end infinite; }
+      .title { animation: flick 3.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- neon frame rules -->
+  <rect x="0" y="0"   width="1200" height="3" fill="url(#pink)" opacity=".85"/>
+  <rect x="0" y="297" width="1200" height="3" fill="url(#pink)" opacity=".45"/>
+  <rect x="0" y="0" width="3" height="300" fill="url(#pink)" opacity=".35"/>
+
+  <!-- moving scanline -->
+  <rect class="scan" x="0" y="0" width="1200" height="46" fill="#ff4f95" opacity="0.05"/>
+
+  <!-- animated pixel blocks (left) -->
+  <g fill="#ff4f95" shape-rendering="crispEdges">
+    <rect class="px" x="70"  y="60" width="9" height="9" style="animation-delay:0s"/>
+    <rect class="px" x="70"  y="74" width="9" height="9" style="animation-delay:.4s"/>
+    <rect class="px" x="84"  y="60" width="9" height="9" style="animation-delay:.8s"/>
+    <rect class="px" x="70"  y="222" width="9" height="9" style="animation-delay:.2s"/>
+    <rect class="px" x="84"  y="222" width="9" height="9" style="animation-delay:.9s"/>
+    <rect class="px" x="98"  y="222" width="9" height="9" style="animation-delay:.6s"/>
+  </g>
+
+  <!-- title -->
+  <text class="title" x="76" y="138" font-family="'Courier New', ui-monospace, monospace" font-size="62" font-weight="800" letter-spacing="3" fill="url(#pink)" filter="url(#glow)">LEEN BAJUNAID</text>
+  <rect class="cur" x="712" y="98" width="16" height="46" fill="#ff4f95"/>
+
+  <!-- subtitles -->
+  <text x="80" y="184" font-family="'Courier New', ui-monospace, monospace" font-size="21" letter-spacing="5" fill="#c9d1d9">SOFTWARE DEVELOPER  ·  CYBERSECURITY SPECIALIST</text>
+  <text x="80" y="216" font-family="'Courier New', ui-monospace, monospace" font-size="16" letter-spacing="4" fill="#7ee0c7">ERP SYSTEMS  ·  AUTOMATION  ·  AI INTEGRATION</text>
+  <text x="80" y="252" font-family="'Courier New', ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#5a6a82">&gt;_ secure by design, automate the rest</text>
+
+  <!-- pixel-art invader (right) -->
+  <g fill="url(#pink)" filter="url(#glow)" shape-rendering="crispEdges">
+    <!-- row0 --><rect x="1057" y="86" width="10" height="10"/><rect x="1123" y="86" width="10" height="10"/>
+    <!-- row1 --><rect x="1068" y="97" width="10" height="10"/><rect x="1112" y="97" width="10" height="10"/>
+    <!-- row2 --><rect x="1057" y="108" width="10" height="10"/><rect x="1068" y="108" width="10" height="10"/><rect x="1079" y="108" width="10" height="10"/><rect x="1090" y="108" width="10" height="10"/><rect x="1101" y="108" width="10" height="10"/><rect x="1112" y="108" width="10" height="10"/><rect x="1123" y="108" width="10" height="10"/>
+    <!-- row3 --><rect x="1046" y="119" width="10" height="10"/><rect x="1057" y="119" width="10" height="10"/><rect x="1079" y="119" width="10" height="10"/><rect x="1090" y="119" width="10" height="10"/><rect x="1101" y="119" width="10" height="10"/><rect x="1123" y="119" width="10" height="10"/><rect x="1134" y="119" width="10" height="10"/>
+    <!-- row4 --><rect x="1035" y="130" width="10" height="10"/><rect x="1046" y="130" width="10" height="10"/><rect x="1057" y="130" width="10" height="10"/><rect x="1068" y="130" width="10" height="10"/><rect x="1079" y="130" width="10" height="10"/><rect x="1090" y="130" width="10" height="10"/><rect x="1101" y="130" width="10" height="10"/><rect x="1112" y="130" width="10" height="10"/><rect x="1123" y="130" width="10" height="10"/><rect x="1134" y="130" width="10" height="10"/><rect x="1145" y="130" width="10" height="10"/>
+    <!-- row5 --><rect x="1035" y="141" width="10" height="10"/><rect x="1057" y="141" width="10" height="10"/><rect x="1068" y="141" width="10" height="10"/><rect x="1079" y="141" width="10" height="10"/><rect x="1090" y="141" width="10" height="10"/><rect x="1101" y="141" width="10" height="10"/><rect x="1112" y="141" width="10" height="10"/><rect x="1123" y="141" width="10" height="10"/><rect x="1145" y="141" width="10" height="10"/>
+    <!-- row6 --><rect x="1035" y="152" width="10" height="10"/><rect x="1057" y="152" width="10" height="10"/><rect x="1123" y="152" width="10" height="10"/><rect x="1145" y="152" width="10" height="10"/>
+    <!-- row7 --><rect x="1068" y="163" width="10" height="10"/><rect x="1079" y="163" width="10" height="10"/><rect x="1101" y="163" width="10" height="10"/><rect x="1112" y="163" width="10" height="10"/>
+  </g>
+</svg>

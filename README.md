@@ -1,16 +1,15 @@
-<!-- ══════════════ HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d3b2e,100:2ea043&height=210&section=header&text=Leen%20Bajunaid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%26%20Cybersecurity%20Specialist&descAlignY=62&descSize=18" alt="header"/>
-
-<!-- ══════════════ TYPING SUBTITLE ══════════════ -->
+<!-- ══════════════ SELF-HOSTED CYBERPUNK BANNER ══════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Cybersecurity+Specialist;ERP+Systems+%C2%B7+Automation+%C2%B7+AI+Integration;Building+secure%2C+intelligent+software" alt="Typing SVG" />
+  <img width="100%" src="https://raw.githubusercontent.com/leenBajunaid/leenBajunaid/main/assets/banner.svg" alt="Leen Bajunaid — Software Developer and Cybersecurity Specialist">
 </p>
 
-<p align="center">
-  <a href="http://linkedin.com/in/leen-b-25646022a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/leenBajunaid"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=2ea043"></a>
-  <img src="https://komarev.com/ghpvc/?username=leenBajunaid&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS">
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/leen-b-25646022a)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ff4f95)](https://github.com/leenBajunaid)
+![Profile Views](https://komarev.com/ghpvc/?username=leenBajunaid&style=for-the-badge&color=ff4f95&label=PROFILE+VIEWS)
+
+</div>
 
 ## 👩‍💻 About Me
 
@@ -36,26 +35,26 @@ systems, admin dashboards, and internal tools.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-2b3137?style=for-the-badge&logo=python&logoColor=2ea043)
-![JavaScript](https://img.shields.io/badge/JavaScript-2b3137?style=for-the-badge&logo=javascript&logoColor=2ea043)
-![HTML5](https://img.shields.io/badge/HTML5-2b3137?style=for-the-badge&logo=html5&logoColor=2ea043)
-![CSS3](https://img.shields.io/badge/CSS3-2b3137?style=for-the-badge&logo=css3&logoColor=2ea043)
-![SQL](https://img.shields.io/badge/SQL-2b3137?style=for-the-badge&logo=postgresql&logoColor=2ea043)
+![Python](https://img.shields.io/badge/Python-11151c?style=for-the-badge&logo=python&logoColor=ff4f95)
+![JavaScript](https://img.shields.io/badge/JavaScript-11151c?style=for-the-badge&logo=javascript&logoColor=ff4f95)
+![HTML5](https://img.shields.io/badge/HTML5-11151c?style=for-the-badge&logo=html5&logoColor=ff4f95)
+![CSS3](https://img.shields.io/badge/CSS3-11151c?style=for-the-badge&logo=css3&logoColor=ff4f95)
+![SQL](https://img.shields.io/badge/SQL-11151c?style=for-the-badge&logo=postgresql&logoColor=ff4f95)
 
 **ERP · Automation · AI**
 
-![ERP](https://img.shields.io/badge/ERP_Systems-2b3137?style=for-the-badge&logo=sap&logoColor=2ea043)
-![Automation](https://img.shields.io/badge/Automation-2b3137?style=for-the-badge&logo=zapier&logoColor=2ea043)
-![Claude](https://img.shields.io/badge/Claude_AI-2b3137?style=for-the-badge&logo=anthropic&logoColor=2ea043)
-![Jupyter](https://img.shields.io/badge/Jupyter-2b3137?style=for-the-badge&logo=jupyter&logoColor=2ea043)
+![ERP](https://img.shields.io/badge/ERP_Systems-11151c?style=for-the-badge&logo=sap&logoColor=ff4f95)
+![Automation](https://img.shields.io/badge/Automation-11151c?style=for-the-badge&logo=zapier&logoColor=ff4f95)
+![Claude](https://img.shields.io/badge/Claude_AI-11151c?style=for-the-badge&logo=anthropic&logoColor=ff4f95)
+![Jupyter](https://img.shields.io/badge/Jupyter-11151c?style=for-the-badge&logo=jupyter&logoColor=ff4f95)
 
 **Security · Tools**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-2b3137?style=for-the-badge&logo=kalilinux&logoColor=2ea043)
-![Wireshark](https://img.shields.io/badge/Wireshark-2b3137?style=for-the-badge&logo=wireshark&logoColor=2ea043)
-![Cryptography](https://img.shields.io/badge/Cryptography-2b3137?style=for-the-badge&logo=letsencrypt&logoColor=2ea043)
-![Linux](https://img.shields.io/badge/Linux-2b3137?style=for-the-badge&logo=linux&logoColor=2ea043)
-![Git](https://img.shields.io/badge/Git-2b3137?style=for-the-badge&logo=git&logoColor=2ea043)
+![Kali](https://img.shields.io/badge/Kali_Linux-11151c?style=for-the-badge&logo=kalilinux&logoColor=ff4f95)
+![Wireshark](https://img.shields.io/badge/Wireshark-11151c?style=for-the-badge&logo=wireshark&logoColor=ff4f95)
+![Cryptography](https://img.shields.io/badge/Cryptography-11151c?style=for-the-badge&logo=letsencrypt&logoColor=ff4f95)
+![Linux](https://img.shields.io/badge/Linux-11151c?style=for-the-badge&logo=linux&logoColor=ff4f95)
+![Git](https://img.shields.io/badge/Git-11151c?style=for-the-badge&logo=git&logoColor=ff4f95)
 
 ## 📈 Contribution Activity
 
@@ -64,6 +63,3 @@ systems, admin dashboards, and internal tools.
 </p>
 
 <p align="center"><sub>💡 Open to collaboration on secure software, ERP, automation, and AI projects.</sub></p>
-
-<!-- ══════════════ FOOTER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:0d3b2e,100:0d1117&height=110&section=footer"/>
