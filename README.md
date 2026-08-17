@@ -57,22 +57,13 @@ systems, admin dashboards, and internal tools.
 ![Linux](https://img.shields.io/badge/Linux-2b3137?style=for-the-badge&logo=linux&logoColor=2ea043)
 ![Git](https://img.shields.io/badge/Git-2b3137?style=for-the-badge&logo=git&logoColor=2ea043)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leenBajunaid&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenBajunaid&layout=compact&hide_border=true&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leenBajunaid&hide_border=true&background=0d1117&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&stroke=30363d&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e">
-</p>
-
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/leenBajunaid/leenBajunaid/output/snake.svg" alt="contribution snake animation">
 </p>
+
+<p align="center"><sub>💡 Open to collaboration on secure software, ERP, automation, and AI projects.</sub></p>
 
 <!-- ══════════════ FOOTER ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:0d3b2e,100:0d1117&height=110&section=footer"/>
